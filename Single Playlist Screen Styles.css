@@ -1,0 +1,28 @@
+:root {
+    --background-image:url("media/background_image/3541800.jpg");
+    --jumbotron-color:#141b41;
+    --playlist-items-background-color:#1a1e33;
+    --playlist-items-background-color-on-hover:#2e3249;
+}
+body{
+    background-image:var(--background-image);
+    margin:0px;
+    font-family:"Segoe UI",Arial,sans-seif;
+    color:white;
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p{
+    margin:0px;
+}
+.navigation-bar{
+    Single Playlist Screen Styles.css
+}
